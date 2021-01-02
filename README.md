@@ -25,3 +25,13 @@ Then look up for:
 ```  
 chat":{"id":-1234567890 - this is your chat ID
 ```
+
+### Run:
+
+`$ python my_private_bot.py`
+
+- you must use your python correct command depend of your python version and install path
+
+### License
+
+my_private_bot is released under the MIT License.
