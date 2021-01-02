@@ -7,7 +7,7 @@ from my_private_bot.utils import module_logger
 
 
 def main():
-    module_logger.info("Start the @NoSleepingBot bot!")
+    module_logger.info("Start the @MyPrivateBot bot!")
 
     # create an object "bot"
     updater = Updater(token=TOKEN_BOT, use_context=True)
