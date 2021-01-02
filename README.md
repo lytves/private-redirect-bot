@@ -1,5 +1,5 @@
 # Private-Redirect-Bot
-This simple python Bot will redirect the messages sent to him in private to your chat/channel
+This simple python Bot will redirect the messages sent to him in private to your group or public/private channel
 
 ### Libraries used:
 * [Python-telegram-bot library](https://github.com/python-telegram-bot/python-telegram-bot)
